@@ -5,9 +5,9 @@ Tudo começará na tela de início, onde você deverá apertar o botão de confi
 Escrevendo "F" no monitor serial você irá para a fase fácil, e escrevendo "D" irá para a fase difícil.
 
 
-Na fase fácil, o jogador terá x desafios, 6 minutos para completar todos eles.
+Na fase fácil, o jogador terá x desafios e 6 minutos para completar todos eles.
 
-Na fase difícil, o jogador terá x desafios, 7 minutos para completar todos eles.
+Na fase difícil, o jogador terá x desafios e 7 minutos para completar todos eles.
 
 Em ambas as fases, o jogador terá 2 erros e no terceiro a bomba explodirá e o jogo acabará. 
 
