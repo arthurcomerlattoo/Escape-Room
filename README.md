@@ -20,4 +20,4 @@ O jogador poderá jogar quantas vezes quiser.
 
 
 
-Vale a pena destacar, que cada fase terá penalidades no tempo se errar, na fase fácil, perdendo x segundos por erro e na difícil, x segundos.
+É importante saber que, em cada fase terá penalidades no tempo se errar, na fase fácil, perdendo x segundos por erro e na difícil, x segundos.
