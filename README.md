@@ -1,4 +1,4 @@
-O jogo Escape-Room, consiste em você precisar vencer os desafios propostos pelas fases para vencer o jogo. 
+O jogo Escape-Room, consiste em você precisar vencer os desafios propostos pelo modo de dificuldade escolhido para vencer o jogo. 
 
 Tudo começará na tela de início, onde você deverá apertar o botão de confirmação para ir para a escolha do modo.
 
