@@ -9,8 +9,7 @@ Na fase fácil, o jogador terá x desafios e 6 minutos para completar todos eles
 
 Na fase difícil, o jogador terá x desafios e 7 minutos para completar todos eles.
 
-Em ambas as fases, o jogador terá 2 erros e no terceiro a bomba explodirá e o jogo acabará. 
-
+Em ambas as fases, o jogador terá 2 erros, no terceiro a bomba explodirá e o jogo acabará. 
 
 Ganhando em qualquer um dos desafios, o jogador irá para a tela de vitória, e pressionando o botão de confirmação, irá voltar para a tela de início.
 
